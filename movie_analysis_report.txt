@@ -1,0 +1,483 @@
+﻿================================================================================
+MOVIE DATABASE ANALYSIS REPORT
+Generated: 2026-05-30 08:37:11
+================================================================================
+
+ANALYSIS PERIOD: Last 5 Years
+From: 2021-05-30
+To: 2026-05-30
+Total movies analyzed: 695
+
+================================================================================
+1. TOP 20 MOST VIEWED MOVIES (by Vote Count)
+================================================================================
+1. Spider-Man: No Way Home
+   Release: 15/12/2021 | Votes: 8940 | Rating: 8.3
+   Language: en | Genres: Action, Adventure, Science Fiction
+
+2. Black Widow
+   Release: 7/7/2021 | Votes: 7127 | Rating: 7.5
+   Language: en | Genres: Action, Adventure, Science Fiction
+
+3. Venom: Let There Be Carnage
+   Release: 30/9/2021 | Votes: 6539 | Rating: 7.1
+   Language: en | Genres: Science Fiction, Action, Adventure
+
+4. Dune
+   Release: 15/9/2021 | Votes: 6237 | Rating: 7.9
+   Language: en | Genres: Science Fiction, Adventure
+
+5. Luca
+   Release: 17/6/2021 | Votes: 5886 | Rating: 8
+   Language: en | Genres: Animation, Comedy, Family, Fantasy
+
+6. Shang-Chi and the Legend of the Ten Rings
+   Release: 1/9/2021 | Votes: 5845 | Rating: 7.7
+   Language: en | Genres: Action, Adventure, Fantasy
+
+7. The Suicide Squad
+   Release: 28/7/2021 | Votes: 5689 | Rating: 7.7
+   Language: en | Genres: Action, Adventure, Fantasy
+
+8. The Tomorrow War
+   Release: 2/7/2021 | Votes: 5182 | Rating: 8
+   Language: en | Genres: Action, Science Fiction, Adventure
+
+9. Free Guy
+   Release: 11/8/2021 | Votes: 5158 | Rating: 7.7
+   Language: en | Genres: Comedy, Action, Adventure, Science Fiction
+
+10. Encanto
+   Release: 24/11/2021 | Votes: 5076 | Rating: 7.7
+   Language: en | Genres: Animation, Comedy, Family, Fantasy
+
+11. Don't Look Up
+   Release: 7/12/2021 | Votes: 4819 | Rating: 7.2
+   Language: en | Genres: Comedy, Drama, Science Fiction
+
+12. Eternals
+   Release: 3/11/2021 | Votes: 4726 | Rating: 7.2
+   Language: en | Genres: Science Fiction
+
+13. Jungle Cruise
+   Release: 28/7/2021 | Votes: 4034 | Rating: 7.6
+   Language: en | Genres: Action, Adventure, Comedy, Fantasy
+
+14. No Time to Die
+   Release: 29/9/2021 | Votes: 3616 | Rating: 7.5
+   Language: en | Genres: Adventure, Action, Thriller
+
+15. Red Notice
+   Release: 4/11/2021 | Votes: 3193 | Rating: 6.8
+   Language: en | Genres: Action, Comedy, Crime, Thriller
+
+16. The Matrix Resurrections
+   Release: 16/12/2021 | Votes: 3160 | Rating: 6.8
+   Language: en | Genres: Science Fiction, Action, Adventure
+
+17. Space Jam: A New Legacy
+   Release: 8/7/2021 | Votes: 2952 | Rating: 7.1
+   Language: en | Genres: Family, Animation, Comedy, Science Fiction
+
+18. Old
+   Release: 21/7/2021 | Votes: 2288 | Rating: 6.6
+   Language: en | Genres: Thriller, Mystery, Horror
+
+19. Ghostbusters: Afterlife
+   Release: 11/11/2021 | Votes: 2225 | Rating: 7.7
+   Language: en | Genres: Fantasy, Comedy, Adventure
+
+20. Sing 2
+   Release: 1/12/2021 | Votes: 2172 | Rating: 8.2
+   Language: en | Genres: Animation, Comedy, Family, Music
+
+
+================================================================================
+2. TOP 20 MOST POPULAR MOVIES (by Popularity Score)
+================================================================================
+1. Spider-Man: No Way Home
+   Popularity: 5083954 | Votes: 8940 | Rating: 8.3
+
+2. The Batman
+   Popularity: 3827658 | Votes: 1151 | Rating: 8.1
+
+3. No Exit
+   Popularity: 2618087 | Votes: 122 | Rating: 6.3
+
+4. Encanto
+   Popularity: 2402201 | Votes: 5076 | Rating: 7.7
+
+5. The King's Man
+   Popularity: 1895511 | Votes: 1793 | Rating: 7
+
+6. The Commando
+   Popularity: 1750484 | Votes: 33 | Rating: 6.6
+
+7. Scream
+   Popularity: 1675161 | Votes: 821 | Rating: 6.8
+
+8. Kimi
+   Popularity: 1601782 | Votes: 206 | Rating: 6.3
+
+9. Fistful of Vengeance
+   Popularity: 1594013 | Votes: 114 | Rating: 5.3
+
+10. Eternals
+   Popularity: 1537406 | Votes: 4726 | Rating: 7.2
+
+11. Pursuit
+   Popularity: 1500523 | Votes: 16 | Rating: 5.9
+
+12. My Hero Academia: World Heroes' Mission
+   Popularity: 1485064 | Votes: 100 | Rating: 7.3
+
+13. Restless
+   Popularity: 1468377 | Votes: 107 | Rating: 5.9
+
+14. Nightmare Alley
+   Popularity: 1455144 | Votes: 952 | Rating: 7.1
+
+15. The Ice Age Adventures of Buck Wild
+   Popularity: 1431307 | Votes: 737 | Rating: 7.1
+
+16. Hotel Transylvania: Transformania
+   Popularity: 1373778 | Votes: 288 | Rating: 7
+
+17. The Requin
+   Popularity: 1252317 | Votes: 65 | Rating: 4.6
+
+18. Looop Lapeta
+   Popularity: 1240946 | Votes: 31 | Rating: 6
+
+19. Red Notice
+   Popularity: 1178544 | Votes: 3193 | Rating: 6.8
+
+20. Venom: Let There Be Carnage
+   Popularity: 1053615 | Votes: 6539 | Rating: 7.1
+
+
+================================================================================
+3. FAVORITE GENRES BY COUNTRY (Based on Original Language)
+================================================================================
+
+USA/UK (English)
+  Total movies: 466
+  Top genres:
+    - Drama: 129 movies (27,7%)
+    - Thriller: 128 movies (27,5%)
+    - Comedy: 120 movies (25,8%)
+    - Action: 113 movies (24,2%)
+    - Horror: 70 movies (15,0%)
+    - Animation: 69 movies (14,8%)
+    - Adventure: 66 movies (14,2%)
+    - Family: 62 movies (13,3%)
+    - Science Fiction: 56 movies (12,0%)
+    - Crime: 55 movies (11,8%)
+
+Spain/Latin America (Spanish)
+  Total movies: 58
+  Top genres:
+    - Comedy: 26 movies (44,8%)
+    - Drama: 22 movies (37,9%)
+    - Romance: 8 movies (13,8%)
+    - Horror: 7 movies (12,1%)
+    - Family: 6 movies (10,3%)
+    - Thriller: 6 movies (10,3%)
+    - Documentary: 6 movies (10,3%)
+    - Crime: 5 movies (8,6%)
+    - Music: 4 movies (6,9%)
+    - Action: 3 movies (5,2%)
+
+France (French)
+  Total movies: 38
+  Top genres:
+    - Drama: 15 movies (39,5%)
+    - Comedy: 14 movies (36,8%)
+    - Documentary: 7 movies (18,4%)
+    - Romance: 6 movies (15,8%)
+    - Thriller: 6 movies (15,8%)
+    - Action: 4 movies (10,5%)
+    - Crime: 3 movies (7,9%)
+    - History: 3 movies (7,9%)
+    - Fantasy: 2 movies (5,3%)
+    - Horror: 2 movies (5,3%)
+
+Japan (Japanese)
+  Total movies: 16
+  Top genres:
+    - Animation: 10 movies (62,5%)
+    - Drama: 8 movies (50,0%)
+    - Action: 8 movies (50,0%)
+    - Fantasy: 7 movies (43,8%)
+    - Science Fiction: 4 movies (25,0%)
+    - Adventure: 4 movies (25,0%)
+    - Music: 2 movies (12,5%)
+    - Romance: 1 movies (6,3%)
+    - Mystery: 1 movies (6,3%)
+
+Portugal/Brazil (Portuguese)
+  Total movies: 13
+  Top genres:
+    - Comedy: 8 movies (61,5%)
+    - Drama: 4 movies (30,8%)
+    - Thriller: 3 movies (23,1%)
+    - Crime: 3 movies (23,1%)
+    - Romance: 2 movies (15,4%)
+    - Action: 1 movies (7,7%)
+    - Fantasy: 1 movies (7,7%)
+    - Horror: 1 movies (7,7%)
+    - Mystery: 1 movies (7,7%)
+
+South Korea (Korean)
+  Total movies: 12
+  Top genres:
+    - Drama: 6 movies (50,0%)
+    - Comedy: 5 movies (41,7%)
+    - Romance: 3 movies (25,0%)
+    - Thriller: 2 movies (16,7%)
+    - Horror: 2 movies (16,7%)
+    - Action: 2 movies (16,7%)
+    - Mystery: 1 movies (8,3%)
+    - Fantasy: 1 movies (8,3%)
+    - History: 1 movies (8,3%)
+    - War: 1 movies (8,3%)
+
+Italy (Italian)
+  Total movies: 10
+  Top genres:
+    - Comedy: 5 movies (50,0%)
+    - Drama: 5 movies (50,0%)
+    - Romance: 3 movies (30,0%)
+    - Mystery: 1 movies (10,0%)
+    - Adventure: 1 movies (10,0%)
+    - Thriller: 1 movies (10,0%)
+    - Science Fiction: 1 movies (10,0%)
+    - Action: 1 movies (10,0%)
+    - Horror: 1 movies (10,0%)
+    - Crime: 1 movies (10,0%)
+
+Turkey (Turkish)
+  Total movies: 8
+  Top genres:
+    - Drama: 5 movies (62,5%)
+    - Romance: 3 movies (37,5%)
+    - Comedy: 1 movies (12,5%)
+    - Animation: 1 movies (12,5%)
+    - Music: 1 movies (12,5%)
+    - Thriller: 1 movies (12,5%)
+
+Germany (German)
+  Total movies: 8
+  Top genres:
+    - Thriller: 3 movies (37,5%)
+    - Drama: 3 movies (37,5%)
+    - Horror: 2 movies (25,0%)
+    - Science Fiction: 1 movies (12,5%)
+    - Comedy: 1 movies (12,5%)
+    - Romance: 1 movies (12,5%)
+    - Action: 1 movies (12,5%)
+    - Crime: 1 movies (12,5%)
+    - Documentary: 1 movies (12,5%)
+
+Other (pl)
+  Total movies: 7
+  Top genres:
+    - Comedy: 4 movies (57,1%)
+    - Thriller: 3 movies (42,9%)
+    - Crime: 2 movies (28,6%)
+    - Drama: 2 movies (28,6%)
+    - Fantasy: 1 movies (14,3%)
+    - Family: 1 movies (14,3%)
+    - Action: 1 movies (14,3%)
+    - Romance: 1 movies (14,3%)
+    - Science Fiction: 1 movies (14,3%)
+    - Horror: 1 movies (14,3%)
+
+Russia (Russian)
+  Total movies: 6
+  Top genres:
+    - Drama: 4 movies (66,7%)
+    - War: 3 movies (50,0%)
+    - Action: 1 movies (16,7%)
+    - History: 1 movies (16,7%)
+    - Adventure: 1 movies (16,7%)
+    - Horror: 1 movies (16,7%)
+    - Fantasy: 1 movies (16,7%)
+
+Other (nl)
+  Total movies: 5
+  Top genres:
+    - Drama: 3 movies (60,0%)
+    - History: 2 movies (40,0%)
+    - Comedy: 2 movies (40,0%)
+    - War: 2 movies (40,0%)
+    - Crime: 1 movies (20,0%)
+    - Romance: 1 movies (20,0%)
+    - Documentary: 1 movies (20,0%)
+
+Other ()
+  Total movies: 5
+  Top genres:
+
+India (Hindi)
+  Total movies: 5
+  Top genres:
+    - Crime: 4 movies (80,0%)
+    - Thriller: 3 movies (60,0%)
+    - Drama: 2 movies (40,0%)
+    - Action: 2 movies (40,0%)
+    - History: 1 movies (20,0%)
+    - Comedy: 1 movies (20,0%)
+
+Other (tl)
+  Total movies: 5
+  Top genres:
+    - Thriller: 5 movies (100,0%)
+    - Romance: 1 movies (20,0%)
+    - Drama: 1 movies (20,0%)
+
+Other (id)
+  Total movies: 4
+  Top genres:
+    - Drama: 4 movies (100,0%)
+    - Comedy: 2 movies (50,0%)
+    - Romance: 1 movies (25,0%)
+    - Thriller: 1 movies (25,0%)
+    - Mystery: 1 movies (25,0%)
+
+Other (no)
+  Total movies: 4
+  Top genres:
+    - Thriller: 3 movies (75,0%)
+    - Drama: 3 movies (75,0%)
+    - Comedy: 2 movies (50,0%)
+    - Action: 2 movies (50,0%)
+    - Horror: 2 movies (50,0%)
+    - Romance: 1 movies (25,0%)
+
+Thailand (Thai)
+  Total movies: 4
+  Top genres:
+    - Science Fiction: 2 movies (50,0%)
+    - Thriller: 2 movies (50,0%)
+    - Horror: 2 movies (50,0%)
+    - Romance: 1 movies (25,0%)
+    - Comedy: 1 movies (25,0%)
+
+China (Chinese)
+  Total movies: 3
+  Top genres:
+    - Drama: 2 movies (66,7%)
+    - War: 1 movies (33,3%)
+    - Science Fiction: 1 movies (33,3%)
+    - Adventure: 1 movies (33,3%)
+    - Action: 1 movies (33,3%)
+    - Fantasy: 1 movies (33,3%)
+    - Animation: 1 movies (33,3%)
+
+Other (da)
+  Total movies: 3
+  Top genres:
+    - Animation: 2 movies (66,7%)
+    - Drama: 1 movies (33,3%)
+    - Comedy: 1 movies (33,3%)
+    - Documentary: 1 movies (33,3%)
+
+Other (cn)
+  Total movies: 2
+  Top genres:
+    - Action: 2 movies (100,0%)
+    - Crime: 1 movies (50,0%)
+    - Fantasy: 1 movies (50,0%)
+    - Drama: 1 movies (50,0%)
+
+Other (te)
+  Total movies: 2
+  Top genres:
+    - Drama: 2 movies (100,0%)
+    - Romance: 1 movies (50,0%)
+    - Action: 1 movies (50,0%)
+    - Thriller: 1 movies (50,0%)
+
+Other (sv)
+  Total movies: 2
+  Top genres:
+    - Drama: 2 movies (100,0%)
+    - Romance: 1 movies (50,0%)
+    - Comedy: 1 movies (50,0%)
+
+Other (fi)
+  Total movies: 2
+  Top genres:
+    - Drama: 1 movies (50,0%)
+    - Crime: 1 movies (50,0%)
+
+Other (fa)
+  Total movies: 1
+  Top genres:
+    - Thriller: 1 movies (100,0%)
+    - Drama: 1 movies (100,0%)
+
+Other (sr)
+  Total movies: 1
+  Top genres:
+    - Comedy: 1 movies (100,0%)
+    - Drama: 1 movies (100,0%)
+
+Other (ta)
+  Total movies: 1
+  Top genres:
+    - Comedy: 1 movies (100,0%)
+    - Crime: 1 movies (100,0%)
+
+Other (ml)
+  Total movies: 1
+  Top genres:
+    - Action: 1 movies (100,0%)
+    - Adventure: 1 movies (100,0%)
+    - Comedy: 1 movies (100,0%)
+
+Other (is)
+  Total movies: 1
+  Top genres:
+    - Fantasy: 1 movies (100,0%)
+    - Horror: 1 movies (100,0%)
+    - Mystery: 1 movies (100,0%)
+    - Drama: 1 movies (100,0%)
+
+Other (lv)
+  Total movies: 1
+  Top genres:
+    - Documentary: 1 movies (100,0%)
+
+Other (ro)
+  Total movies: 1
+  Top genres:
+    - Thriller: 1 movies (100,0%)
+    - Drama: 1 movies (100,0%)
+
+================================================================================
+4. STATISTICAL SUMMARY
+================================================================================
+
+Average Rating: 5,57
+Average Vote Count: 318
+Average Popularity: 143519,58
+
+Movies by Year:  2021: 478 movies
+  2022: 208 movies
+  2023: 8 movies
+  2024: 1 movies
+
+Top Genres Overall:
+  Drama: 229 (14,6%)
+  Comedy: 197 (12,5%)
+  Thriller: 170 (10,8%)
+  Action: 144 (9,2%)
+  Horror: 92 (5,9%)
+  Animation: 85 (5,4%)
+  Romance: 85 (5,4%)
+  Adventure: 80 (5,1%)
+  Crime: 78 (5,0%)
+  Family: 70 (4,5%)
+
